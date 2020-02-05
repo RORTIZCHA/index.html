@@ -10,11 +10,8 @@ Link de descarga Git: https://git-scm.com/download/win
 
 Link de descarga GitHub: https://desktop.github.com/
 
-Adicionalmente a este material podrá consultar el proceso de instalación y configuración de GIT y GITHUB en el siguiente vídeo que es de autoría del equipo docente de nuestro curso, a través del siguiente link:
+Adicionalmente a este material podrá consultar el proceso de instalación y configuración de GIT y GITHUB en el siguiente vídeo que es de autoría del equipo docente de nuestro curso, a través del siguiente link: https://www.youtube.com/watch?v=PPluY5K4nIg&feature=youtu.be
 
-https://www.youtube.com/watch?v=PPluY5K4nIg&feature=youtu.be
-
-Ahora sí,
 
 <html>
   <head>
