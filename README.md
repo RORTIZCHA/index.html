@@ -2,16 +2,16 @@
 
 DISEÑOS DE SITIOS WEB - (301122A_761)
 
-Unidad 1: Fase 1- Comprensión: Configurar un repositorio con el SCV GIT y GITHUB
+Historia de la Web
 
-Para iniciar el proceso de configuración, lo primero que debemos hacer es descargar los programas instaladores para tener en nuestro computador el sistema Git y el cliente de escritorio para GitHub.
+La historia de la web abarca ya más de 25 años, en los que se han alternado períodos de intenso desarrollo con otros de estancamiento. Esta lección pretende comentar los acontecimientos más importantes sucedidos desde 1991, centrándose en las organizaciones que han guiado el desarrollo de la web, en las normas y recomendaciones publicadas y en los navegadores más importantes de cada época.
+Esta lección pretende dar una visión de conjunto. Se pueden encontrar explicaciones más detalladas y completas en otras lecciones dedicadas a normas y recomendaciones, navegadores, sistemas operativos y pantallas y cuadros cronológicos.
 
-Link de descarga Git: https://git-scm.com/download/win
+¿Quién creó la primera página web?
 
-Link de descarga GitHub: https://desktop.github.com/
+La primera página web del mundo se creó en diciembre de 1990, aunque no se pudo ver hasta agosto de 1991. Su creador: Tim Berners-Lee. Berners-Lee es un científico británico conocido, sobre todo, por ser el padre de la World Wide Web. Nació en Londres en 1955 y se graduó en física en 1976 por la Universidad de Oxford.
 
-Adicionalmente a este material podrá consultar el proceso de instalación y configuración de GIT y GITHUB en el siguiente vídeo que es de autoría del equipo docente de nuestro curso, a través del siguiente link: https://www.youtube.com/watch?v=PPluY5K4nIg&feature=youtu.be
-
+En 1989, el CERN (Organización Europea para la Investigación Nuclear) era el nodo de Internet más grande de Europa. Berners-Lee vio aquí una oportunidad de unir Internet y el hipertexto (HTTP y HTML), y de esta mezcla surgió la World Wide Web. Desarrolló varias ideas que no tuvieron mucho éxito, pero en 1990, con la ayuda de Robert Cailliau, hizo una propuesta que fue aceptada. Berners-Lee creó el primer navegador (WorldWideWeb) y el primer servidor web httpd (HyperText Transfer Protocol Daemon).
 
 <html>
   <head>
